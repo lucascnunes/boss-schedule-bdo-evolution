@@ -1,0 +1,154 @@
+{
+    "bosses": [{
+            "hour": 22,
+            "minutes": 0,
+            "bosses": [
+                "Vell",
+                "Kutum",
+                "Nouver",
+                "Kutum",
+                "Kzarka",
+                "Nouver",
+                "Quint, Muraka"
+            ]
+        },
+        {
+            "hour": 22,
+            "minutes": 15,
+            "bosses": ["", "", "", "Quint, Muraka", "", "", ""]
+        },
+        {
+            "hour": 23,
+            "minutes": 15,
+            "bosses": [
+                "Kutum, Karanda",
+                "Karanda",
+                "Kutum, Kzarka",
+                "Nouver",
+                "Kzarka, Karanda",
+                "Karanda",
+                "Nouver, Kutum"
+            ]
+        },
+        {
+            "hour": 1,
+            "minutes": 0,
+            "bosses": [
+                "Karanda, Garmoth",
+                "Kutum, Nouver",
+                "Karanda",
+                "Kutum, Offin",
+                "Nouver, Kutum",
+                "Offin, Kzarka",
+                "Kzarka, Karanda"
+            ]
+        },
+        {
+            "hour": 4,
+            "minutes": 0,
+            "bosses": [
+                "Kzarka",
+                "Kzarka",
+                "Kzarka",
+                "Nouver",
+                "Karanda",
+                "Nouver",
+                "Kutum"
+            ]
+        },
+        {
+            "hour": 4,
+            "minutes": 15,
+            "bosses": [
+                "Nouver",
+                "",
+                "Garmoth",
+                "Karanda, Kzarka",
+                "Garmoth",
+                "Kzarka, Kutum"
+            ]
+        },
+        {
+            "hour": 5,
+            "minutes": 15,
+            "bosses": ["", "", "", "Quint, Muraka", "", "", ""]
+        },
+        {
+            "hour": 6,
+            "minutes": 15,
+            "bosses": [
+                "Karanda, Kutum",
+                "Karanda",
+                "Kutum, Kzarka",
+                "Nouver",
+                "Kzarka, Karanda",
+                "Karanda",
+                "Kutum, Nouver"
+            ]
+        },
+        {
+            "hour": 8,
+            "minutes": 0,
+            "bosses": [
+                "Kzarka, Karanda",
+                "Nouver, Kutum",
+                "Karanda",
+                "Kutum",
+                "Kutum, Nouver",
+                "Kutum, Offin",
+                "Nouver, Kzarka"
+            ]
+        },
+        {
+            "hour": 11,
+            "minutes": 0,
+            "bosses": [
+                "Offin, Kzarka",
+                "Kutum, Kzarka",
+                "Nouver, Kzarka",
+                "Karanda",
+                "Nouver",
+                "Kzarka, Kutum"
+            ]
+        },
+        {
+            "hour": 15,
+            "minutes": 0,
+            "bosses": [
+                "Kutum, Kzarka",
+                "Nouver",
+                "Kutum, Karanda",
+                "Kzarka, Kutum",
+                "Nouver, Kutum",
+                "Quint, Muraka, Kutum",
+                "Vell, Nouver"
+            ]
+        },
+        {
+            "hour": 18,
+            "minutes": 0,
+            "bosses": [
+                "Nouver, Offin",
+                "Karanda, Kutum",
+                "Offin, Nouver",
+                "Kutum, Nouver",
+                "Kzarka, Karanda",
+                "Karanda, Kzarka, Nouver",
+                "Garmoth, Kzarka"
+            ]
+        },
+        {
+            "hour": 21,
+            "minutes": 15,
+            "bosses": [
+                "Kzarka",
+                "Garmoth",
+                "Karanda, Kzarka",
+                "Garmoth",
+                "Kutum, Kzarka",
+                "",
+                "Kzarka, Nouver"
+            ]
+        }
+    ]
+}
